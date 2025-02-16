@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "389105146743",
+    "project_id": "draw-flawless",
+    "storage_bucket": "draw-flawless.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389105146743:android:2e3d3cdad922ce12de9f72",
+        "android_client_info": {
+          "package_name": "com.example.draw_flawless"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDWjigC-j53iKKLfiCPZPKjSZrqTDq1ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389105146743:android:5b066c752ab72643de9f72",
+        "android_client_info": {
+          "package_name": "com.example.draw_flawlesscom.example.draw_flawless"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDWjigC-j53iKKLfiCPZPKjSZrqTDq1ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
